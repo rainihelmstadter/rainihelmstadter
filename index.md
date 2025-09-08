@@ -1,7 +1,7 @@
 # Raini's Earth Data Science Portfolio 
 
 <img
-  src="img/'Profile_Photo.jpg"
+  src="/img/'Profile_Photo.jpg"
   alt="Raini's profile picture"
   width="15%">
 
