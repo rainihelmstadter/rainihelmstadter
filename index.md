@@ -14,7 +14,7 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
 - Fighting and mitigating the impacts of climate change in the Rocky Mountains (and everywhere)
-<p> You might notice these goals have slightly different scopes. You're right.
+<p> You might notice these goals have slightly different scopes. You're right. </p>
 
 
 ## Contact 
