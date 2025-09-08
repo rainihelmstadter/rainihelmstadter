@@ -1,9 +1,8 @@
 # Raini's Earth Data Science Portfolio 
 
-<img
-  src="rainihelmstadter/img/Profile_Photo.jpg"
-  alt="Raini's profile picture"
-  width="15%">
+
+![](/img/Profile_Photo.jpg)
+
 
 Hello! I am from Santa Fe, New Mexico. I went to Hampshire College, which is a pretty small school in western Massachusetts, down the road from UMass Amherst and Amherst College. I studied Climate Science, Philosophy, and Environmental Policy at Hampshire, and completed a thesis that explored a novel way to present climate model data so they are more relevant to general stakeholders. I taught myself how to use Matlab during my thesis. I'm planning on applying to graduate school this fall, probably in Geography or Atmospheric Science (potentially at CU!). My interests lie in connecting stakeholders with climate model outputs in order to facilitate adaptation and mitigation efforts. If you have thoughts, questions, recommendations, etc. - I'm all ears!
 
