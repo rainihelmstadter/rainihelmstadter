@@ -20,9 +20,10 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 - LinkedIn coming soon!
 - Instagram coming soon!
 
+
 ## First Map Project
 Here's where I work these days:
-<embed type="text/html" src="projects/first_map/bigsky.html" width="600" height="600">
+<embed type="text/html" src="projects/first_map/bigsky.html" width="575" height="600">
 
 Here's where I went to college:
-<embed type="text/html" src="projects/first_map/camphamp.html" width="600" height="600">
+<embed type="text/html" src="projects/first_map/camphamp.html" width="575" height="600">
