@@ -1,4 +1,4 @@
-### Climate Change in Bozeman, Montana
+# Climate Change in Bozeman, Montana
 
  - picture of Bozeman, the Bridgers, etc
 
