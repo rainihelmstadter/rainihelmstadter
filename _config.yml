@@ -2,8 +2,12 @@ theme: jekyll-theme-minimal
 color-scheme: auto
 title: Raini Helmstadter's Earth Data Analytics Portfolio
 
-logo: /img/<Profile_Photo.jpg>
+logo: ./img/<Profile_Photo.jpg>
 
+<img
+  src="./img/Profile_Photo.jpg"
+  alt="Raini's profile photo"
+  width="25%">
 
   
 description: I'll be continuously updating this page throughout the Earth Data Analytics certificate program!
