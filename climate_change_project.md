@@ -2,17 +2,10 @@
 
  - picture of Bozeman, the Bridgers, etc
 
-For this project, I investigated annual mean temperature in Bozeman, Montana within the last century. I live in Bozeman - it's a beautiful town characterized by long, cold, snowy winters and short, cool summers. 
-Personally, I think it's a fanastic climate, as do many residents in town. However, long-time residents often wax poetic on how great the summers used to be and how much hotter & smokier they are now, 
-as well as how much colder and snowier the winters used to be.
-These claims are worth paying attention to, so I performed an **Ordinary Least Squares (OLS) Linear Regression** to begin investigating how climate change is impacting Bozeman.
+For this project, I investigated annual mean temperature in Bozeman, Montana within the last century. I live in Bozeman - it's a beautiful town characterized by long, cold, snowy winters and short, cool summers. Personally, I think it's a fanastic climate, as do many residents in town. However, long-time residents often wax poetic on how great the summers used to be and how much hotter & smokier they are now, 
+as well as how much colder and snowier the winters used to be. These claims are worth paying attention to, so I performed an **Ordinary Least Squares (OLS) Linear Regression** to begin investigating how climate change is impacting Bozeman.
 
-Displayed below are annual average temperatures in Bozeman, Montana. These data were collected by a weather station installed at Montana State University (MSU), and were accessed through the [
-
-The dataset starts in 1892 and is still growing. 
-However, after preliminary analysis, I found that the dataset has a significant of information missing in its early years; until 1933, each year has at least one month (Days 1-31) of missing values.
-These gaps often occured from November 1 to March 31, though other months were missing in the 1892-1933 period as well. My hypothesis is that, given MSU's origin as a land grant agricultural university, 
-the weatherstation operator did not collect data during the winter months; perhaps they were not concerned with temperatures while the ground was snow covered.
+Displayed below are annual average temperatures in Bozeman, Montana. These data were collected by a weather station installed at Montana State University (MSU). I downloaded them from the Global Historical Climate Network - Daily (GHCND) dataset maintained by the National Center for Environmental Information, using their [Climate Data Online portal](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND). The station I accessed uses the Station ID: USC00241044. The dataset starts in 1892 and is still growing. However, after preliminary analysis, I found that the dataset has a significant of information missing in its early years; until 1933, each year has at least one month (Days 1-31) of missing values. These gaps often occured from November 1 to March 31, though other months were missing in the 1892-1933 period as well. My hypothesis is that, given MSU's origin as a land grant agricultural university, the weatherstation operator did not collect data during the winter months; perhaps they were not concerned with temperatures while the ground was snow covered.
 
 Given the gaps in the dataset, I decided to exlude all years before 1933, so the years I've analyzed are 1933-2024.
 
