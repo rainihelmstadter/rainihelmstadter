@@ -21,7 +21,10 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 - Instagram coming soon!
 
 
-## First Map Project
+## Projects
+
+[Climate Change in Bozeman, Montana](./climate_change_project.md)
+
 Here's where I work these days:
 <embed type="text/html" src="projects/first_map/bigsky.html" width="650" height="600">
 
