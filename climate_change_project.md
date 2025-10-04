@@ -11,6 +11,8 @@ Given the gaps in the dataset, I decided to exlude all years before 1933, so the
 
 <embed type="text/html" src="projects/02-climate-change/bzn_t_ann_plot_int.html" width="400" height="400" scale="tofit"/>
 
+Canary
+
 You can mouse over any point on the graph to view the annual mean temperature from any given year.
 
 Just from a glance at the plot, it looks like there's a warming trend. So, I performed an **OLS Linear Regression** to see if annual mean temperature in Bozeman is, in fact, warming, and if so, by how much:
