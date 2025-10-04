@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 <img
   src="./img/Profile_Photo.jpg"
   alt="Raini's profile photo"
