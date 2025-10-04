@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 color-scheme: auto
 title: Raini Helmstadter's Earth Data Analytics Portfolio
 
