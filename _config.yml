@@ -1,14 +1,14 @@
 # theme: jekyll-theme-minimal
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-plugins:
+# plugins:
 - jekyll-remote-theme
 
-color-scheme: auto
+# color-scheme: auto
 title: Raini Helmstadter's Earth Data Analytics Portfolio
 
-# logo: ./img/<Profile_Photo.jpg>
+# logo: /img/Profile_Photo.jpg
 
-logo: <img
+#logo: <img
   src="./img/Profile_Photo.jpg"
   alt="Raini's profile photo"
   width="25%">
