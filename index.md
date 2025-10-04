@@ -9,6 +9,14 @@ Hello! I am from Santa Fe, New Mexico. I went to Hampshire College, which is a p
 
 Since graduating college, I've been skiing... a lot. I work as a ski instructor at Big Sky, MT and Portillo, Chile. I hold Alpine Level III and Children's Specialist II certifications from the Professional Ski Instructors of America. I love skiing at the resort and in the backcountry, and I love getting to talk about it with fellow ski nerds. When not skiing, you'll probably find me mountain biking or trail running.
 
+
+## Class Projects
+
+[First Map Project](./first_map.md)
+
+[Climate Change in Bozeman, Montana](./climate_change_project.md)
+
+
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
@@ -20,10 +28,3 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 - raini.helmstadter@colorado.edu
 - LinkedIn coming soon!
 - Instagram coming soon!
-
-
-## Projects
-
-[First Map Project](./first_map.md)
-
-[Climate Change in Bozeman, Montana](./climate_change_project.md)
