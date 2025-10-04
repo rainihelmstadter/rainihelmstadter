@@ -11,7 +11,7 @@ Displayed below are annual average temperatures in Bozeman, Montana. Given the g
 
 <img src="projects/02-climate-change/bzn_t_ann_plot.png" alt="Annual Mean Temperature (&deg;F) in Bozeman, MT">
 
-[Check out an interactive version of the plot here (link not ready yet).](projects/02-climate-change/bzn_t_ann_plot_int.html) You can mouse over any point on the graph to view the annual mean temperature from any given year.
+[Check out an interactive version of the plot here.](projects/02-climate-change/bzn_t_ann_plot_int.html) You can mouse over any point on the graph to view the annual mean temperature from any given year.
 
 Just from a glance at the plot, it looks like there's a warming trend. So, I performed an **OLS Linear Regression** to see if annual mean temperature in Bozeman is, in fact, warming, and if so, by how much:
 
@@ -22,6 +22,6 @@ That's over half a degree each decade, and over 5&deg;F in the time period (91).
 This finding is in line with other analyses - for example, Climate Central, an organization dedicated to sharing the effects of climate change with the public, 
 [shows that Bozeman has warmed by 2.2&deg;F since 1970](https://www.climatecentral.org/climate-local/41399), which is about halfway through my dataset.
 
-To access the dataset I used or reproduce my analysis, please check out the [Jupyter Notebook](projects/02-climate-change/Climate-Coding-Challenge_Bozeman.ipynb) I used.
+To access the dataset I used or reproduce my analysis, please check out the [Jupyter Notebook](projects/02-climate-change/Climate-Coding-Challenge_Bozeman.html) I used.
 
 
