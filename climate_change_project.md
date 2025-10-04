@@ -1,6 +1,6 @@
 # Climate Change in Bozeman, Montana
 
- - picture of Bozeman, the Bridgers, etc
+ ![Bozeman, MT. Source: Feetyouwear, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/fe/Bozeman_MT_aerial.jpg)
 
 For this project, I investigated annual mean temperature in Bozeman, Montana within the last century. I live in Bozeman - it's a beautiful town characterized by long, cold, snowy winters and short, cool summers. Personally, I think it's a fanastic climate, as do many residents in town. However, long-time residents often wax poetic on how great the summers used to be and how much hotter & smokier they are now, 
 as well as how much colder and snowier the winters used to be. These claims are worth paying attention to, so I performed an **Ordinary Least Squares (OLS) Linear Regression** to begin investigating how climate change is impacting Bozeman.
