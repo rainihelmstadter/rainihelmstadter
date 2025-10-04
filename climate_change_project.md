@@ -9,7 +9,7 @@ Displayed below are annual average temperatures in Bozeman, Montana. These data 
 
 Given the gaps in the dataset, I decided to exlude all years before 1933, so the years I've analyzed are 1933-2024.
 
-<embed type="text/html" src="projects/02-climate-change/bzn_t_ann_plot_int.html" max-width="500" width=100% height=auto>
+<embed type="text/html" src="projects/02-climate-change/bzn_t_ann_plot_int.html" max-width=500px width=100% height=auto>
 
 Canar
 
