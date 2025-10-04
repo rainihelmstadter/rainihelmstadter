@@ -13,7 +13,7 @@ Displayed below are annual average temperatures in Bozeman, Montana. Given the g
 
 Canar
 
-You can mouse over any point on the graph to view the annual mean temperature from any given year.
+[Check out an interactive version of the plot here (link not ready yet).](projects/02-climate-change/bzn_t_ann_plot_int.html) You can mouse over any point on the graph to view the annual mean temperature from any given year.
 
 Just from a glance at the plot, it looks like there's a warming trend. So, I performed an **OLS Linear Regression** to see if annual mean temperature in Bozeman is, in fact, warming, and if so, by how much:
 
