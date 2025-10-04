@@ -9,7 +9,7 @@ To perform this analysis, I accessed the Global Historical Climate Network - Dai
 
 Displayed below are annual average temperatures in Bozeman, Montana. Given the gaps in the dataset, I decided to exlude all years before 1933, so the years I've analyzed are 1933-2024.
 
-<img src="projects/02-climate-change/bzn_t_ann_plot_int.png" alt="Annual Mean Temperature (&deg;F) in Bozeman, MT">
+<img src="projects/02-climate-change/bzn_t_ann_plot.png" alt="Annual Mean Temperature (&deg;F) in Bozeman, MT">
 
 [Check out an interactive version of the plot here (link not ready yet).](projects/02-climate-change/bzn_t_ann_plot_int.html) You can mouse over any point on the graph to view the annual mean temperature from any given year.
 
