@@ -21,7 +21,7 @@ title                    : "Raini Helmstadter's Earth Data Analytics Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "I'll be continuously updating this page throughout the Earth Data Analytics certificate program!"
 url                      : "https://rainihelmstadter.github.io/rainihelmstadter/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
