@@ -18,7 +18,7 @@ Just from a glance at the plot, it looks like there's a warming trend. So, I per
 <img src="projects/02-climate-change/bzn_plot_linreg.png" alt="OLS Linear Regression trend of Annual Mean Temperature (&degF) in Bozeman, MT">
 
 The regression clearly shows a warming trend in Bozeman, MT between 1933-2024. Indeed, annual mean Bozeman has warmed by .056&deg;F per year in this period. 
-That's over half a degree each decade, and over 5&deg;F in the time period (91).
+That's over half a degree each decade, and over 5&deg;F in the time period (91 years).
 This finding is in line with other analyses - for example, Climate Central, an organization dedicated to sharing the effects of climate change with the public, 
 [shows that Bozeman has warmed by 2.2&deg;F since 1970](https://www.climatecentral.org/climate-local/41399), which is about halfway through my dataset.
 
