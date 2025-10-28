@@ -1,3 +1,8 @@
+---
+layout: no_header
+title: Western Tanager Migration
+---
+
 # Western Tanager Migration
 
 <a title="http://www.naturespicsonline.com/, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Western_Tanager_(male).jpg"><img width="256" alt="Western Tanager (male)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_Tanager_%28male%29.jpg/256px-Western_Tanager_%28male%29.jpg?20060722052324"></a>
