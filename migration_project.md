@@ -1,5 +1,5 @@
 ---
-layout: no_header
+layout: post
 title: Western Tanager Migration
 ---
 
