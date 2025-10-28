@@ -16,7 +16,7 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 
 [Climate Change in Bozeman, Montana](./climate_change_project.md)
 
-[Western Tanager Migration](./projects/migration/tanager-post.html)
+[Western Tanager Migration](./migration_project.md)
 
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
