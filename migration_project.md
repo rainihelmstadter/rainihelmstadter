@@ -51,14 +51,13 @@ There are notable observations in the Upper Midwest and Quebec/New Brunswick thr
 
 ## Sources
 
-To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](projects/migration/western_tanager_migration.html).
+To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](projects/migration/western_tanager_notebook.html).
 
 GBIF Observations:
 
 GBIF.org (23 October 2025) GBIF Occurrence Download [https://doi.org/10.15468/dl.pqnfvt](https://doi.org/10.15468/dl.pqnfvt)
-
-
+ 
 Resolve Ecoregions:
 
-[https://data-gis.unep-wcmc.org/portal/home/item.html?id=0127920779a64e3f98925f2d3da3b847](https://data-gis.unep-wcmc.org/portal/home/item.html?id=0127920779a64e3f98925f2d3da3b847)
+[https://data-gis.unep-wcmc.org/portal/home/item.html?id=0127920779a64e3f98925f2d3da3b847](https://data-gis.unep-wcmc.org/portal/home/item.html?id=0127920779a64e3f98925f2d3da3b847) 
 [https://doi.org/10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014)
