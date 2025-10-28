@@ -51,7 +51,7 @@ There are notable observations in the Upper Midwest and Quebec/New Brunswick thr
 
 ## Sources
 
-To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](projects/migration/western_tanager_migration_notebook.html).
+To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](projects/migration/western_tanager_migration.html).
 
 GBIF Observations:
 
