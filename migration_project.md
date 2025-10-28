@@ -23,7 +23,9 @@ To visualize Western Tanager migration, I performed the following steps. First, 
 
 ## Western Tanager Migration in 2024
 
-<embed type="text/html" src="./projects/migration/western_tanager_migration.html" width="825" height="750">
+<div style="position: relative; padding-bottom: 80; height: 0; overflow: hidden;">
+  <embed type="text/html" src="./projects/migration/western_tanager_migration.html" width="825" height="750">
+</div>
 
 ## Bias Correction
 Because GBIF incorporates citizen scientist observations, it's important to consider how the populations of observers might impact the dataset. Two important sources of bias to consider are sampling density and temporal biases. Lastly, it's also important to consider the identification abilities of observers.
