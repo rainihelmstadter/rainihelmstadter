@@ -1,5 +1,5 @@
 ---
-layout: no_header
+layout: default
 title: Western Tanager Migration
 ---
 
