@@ -30,6 +30,8 @@ To visualize Western Tanager migration, I performed the following steps. First, 
 
 <embed type="text/html" src="./projects/migration/western_tanager_migration.html" width="825" height="750">
 
+If you have trouble viewing the plot due to screen size, feel free to check it out on a separate page [here.](projects/migration/western_tanager_migration.html)
+
 ## Bias Correction
 Because GBIF incorporates citizen scientist observations, it's important to consider how the populations of observers might impact the dataset. Two important sources of bias to consider are sampling density and temporal biases. Lastly, it's also important to consider the identification abilities of observers.
 
@@ -49,7 +51,7 @@ There are notable observations in the Upper Midwest and Quebec/New Brunswick thr
 
 ## Sources
 
-To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](./projects/migration/western_tanager_migration_notebook.html).
+To see the code I used for this project, and reproduce my work, please check out [this Jupyter notebook](projects/migration/western_tanager_migration_notebook.html).
 
 GBIF Observations:
 
