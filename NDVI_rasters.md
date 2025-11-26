@@ -19,7 +19,7 @@ Fire is not new to the southwest, and it is often an important part of forest cy
 
 To explore this question, I used data from the [Monitoring Burn Severity (MTBS) group](https://www.mtbs.gov/) and NDVI data I acquired from the NASA EarthData repository. I first downloaded the boundary of the Las Conchas fire from MTBS. This gave me a geospatial polygon that I could use to select specific grid cells in the NDVI data. The plot below shows the extent of the fire:
 
-<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound.html" width="900" height="1100">
+<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound.html" width="900" height="900">
 
 
 # NDVI Rasters
@@ -32,15 +32,15 @@ To investigate how vegetation health recovered after the fire, I first divided t
 
 # Results
 
-<embed type="text/html" src="./projects/NDVI/Mean_NDVI_In_Out_Fire.html" width="600" height="500">
+<embed type="text/html" src="./projects/NDVI/Mean_NDVI_In_Out_Fire.html" width="600" height="350">
 This plot shows annual mean NDVI inside (red) and outside (blue) the fire boundary. NDVI inside the boundary is higher than outside for the first five years (2006-2010) in the dataset, but quickly plunges below NDVI outside the fire boundary in 2011. This shows the immediate impact of the Las Conchas fire. In subsequent years after the fire, NDVI inside the fire boundary recovers to levels near NDVI outside the boundary. By 2018, the two regions are nearly identical. However, NDVI inside the boundary never returns to pre-fire levels.
 
 
-<embed type="text/html" src="./projects/NDVI/NDVI_Mean_Diff_line.html" width="600" height="500">
+<embed type="text/html" src="./projects/NDVI/NDVI_Mean_Diff_line.html" width="700" height="350">
 This plot shows the difference between NDVI inside and outside the fire boundary. The patterns are largely identical to the previous plot, but attention to the scale reveals how closely the two match; the difference in NDVI approaches 0 by 2018. 2012 shows the largest difference, as this is the year immediately after the fire.
 
 
-<embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="900" height="1100">
+<embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="900" height="900">
 If you have trouble viewing the plot due to screen size, feel free to 
 [check it out on a separate page here.](projects/NDVI/NDVI_Recovery_big_frame.html)
 
