@@ -42,7 +42,7 @@ This plot shows the difference between NDVI inside and outside the fire boundary
 
 <embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="900" height="1100">
 If you have trouble viewing the plot due to screen size, feel free to 
-[check it out on a separate page here](projects/NDVI/NDVI_Recovery_big_frame.html)
+[check it out on a separate page here.](projects/NDVI/NDVI_Recovery_big_frame.html)
 
 
 This plot (or series of plots) reveals clear spatial changes in NDVI within the fire boundary. In the 2006-2010 baseline period, nearly all of the area inside the fire boundary has high NDVI, demonstrated by the dark green coloring of the plot. In 2011, most of the area inside the boundary has low NDVI, as the fire burned. In following years, NDVI in parts of the burned area climbs within 3-4 years. There is a distinct swath from the southwest corner of the burned area through the center of the area that clearly recovers quickly. However, there are also notable areas that do not see major increases in NDVI, such as the north-central and southeast sections of the burned area. Even by 2021, these areas do not seem to recover much. 
