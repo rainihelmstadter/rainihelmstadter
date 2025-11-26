@@ -40,7 +40,7 @@ This plot shows annual mean NDVI inside (red) and outside (blue) the fire bounda
 This plot shows the difference between NDVI inside and outside the fire boundary. The patterns are largely identical to the previous plot, but attention to the scale reveals how closely the two match; the difference in NDVI approaches 0 by 2018. 2012 shows the largest difference, as this is the year immediately after the fire.
 
 
-<embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="900" height="900">
+<embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="600" height="600">
 If you have trouble viewing the plot due to screen size, feel free to 
 [check it out on a separate page here.](projects/NDVI/NDVI_Recovery_big_frame.html)
 
@@ -50,7 +50,7 @@ This plot (or series of plots) reveals clear spatial changes in NDVI within the 
 
 # Implications of plots
 
-<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound_no_alpha.html" width="500" height="750">
+<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound_no_alpha.html" width="800" height="900">
 This map shows the boundary of the Las Conchas fire again. Feel free to zoom or pan in and out as you compare this map to the spatial map of NDVI recovery. Do you notice any characteristics of areas that didn't see much recovery in NDVI?
 
 My results indicate that while vegetation in some parts of the area burned by the Las Conchas fire did recover to some extent, vegetation across the area did not recover to previous levels. This indicates that either the areas burned are experiencing some kind of ecosystem shift, perhaps from common paradigms such as Douglas Fir-Aspen to Ponderosa Pine-Gamble Oak forests, or even Piñon-Juniper forests, or that recovery from fires akin to the Las Conchas fire may take longer than the dataset I used can show. (source here)?
