@@ -57,8 +57,6 @@ My results indicate that while vegetation in some parts of the area burned by th
 
 Further, vegetation in some areas did not seem to recover much at all, which is interesting. This could be a result from fires burning intensely and creating inhospitable areas, or the areas could be experiencing an ecosystem shift as the climate warms. I find the southeast corner of the fire near Bandelier National Monument most interesting. In the baseline period, this area seems similar to the rest of the burned region with relatively high NDVI; by 2021, it more closely resembles the areas to the west, which, from personal experience, are lower and more desert-like. This matches results from Rother and Veblen 2016, who found that "conifer regeneration was most limited in xeric settings, including more southerly aspects and elevations closer to lower treeline"; this perfectly describes the area we see most limited recovery from.
 
-Indeed, my step-parent, who likes to hike in this area, describes an area that used to be full of Ponderosa pines as a "wasteland". Pictures from their hikes are included below to offer additional context. To me, this region seems to exemplify a change in ecosystem after a fire, and I hypothesize that climate may have a role in this. 
-
 
 # Sources
 
