@@ -5,9 +5,9 @@ title: NDVI Recovery after the Las Conchas Fire
 
 # NDVI Recovery after the Las Conchas Fire
 
-INSERT IMAGE HERE
+<a title="Larry1732, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:View_from_Window_-_Las_Conchas_Fire.jpg"><img width="600" alt="View from Window - Las Conchas Fire" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/View_from_Window_-_Las_Conchas_Fire.jpg/512px-View_from_Window_-_Las_Conchas_Fire.jpg?20110708193432"></a>
 
-For this project, I investigated how NDVI recovered after a major forest fire in New Mexico. The Las Conchas fire, which took place in 2011, burned over 150,000 acres near Los Alamos, New Mexico. It was the largest fire on record, at the time, and threatened the Los Alamos National Laboratory. I experienced this fire while I was in high school roughly 50 miles southeast in Santa Fe, New Mexico. It was intense to watch - I remember seeing the red glow of fire in the mountains at night, and we would often wake up to ash particles scattered across the hood of our car.
+For this project, I investigated how vegetation health, shown using (NDVI) recovered after a major forest fire in New Mexico. The Las Conchas fire, which took place in 2011, burned over 150,000 acres near Los Alamos, New Mexico. It was the largest fire on record, at the time, and threatened the Los Alamos National Laboratory. I experienced this fire while I was in high school roughly 50 miles southeast in Santa Fe, New Mexico. It was intense to watch - I remember seeing the red glow of fire in the mountains at night, and we would often wake up to ash particles scattered across the hood of our car.
 
 # Background
 
@@ -17,7 +17,7 @@ Fire is not new to the southwest, and it is often an important part of forest cy
 
 To explore this question, I used data from MTBS (fill in w/ link) and NDVI data I acquired from the NASA EarthData repository. I first downloaded the boundary of the Las Conchas fire from MTBS. This gave me a geospatial polygon that I could use to select specific grid cells in the NDVI data. The plot below shows the extent of the fire:
 
-(fire-bound-plot here)
+<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound.html" width="600" height="500">
 
 # NDVI Rasters
 
@@ -29,18 +29,24 @@ To investigate how vegetation health recovered after the fire, I first divided t
 
 # Results
 
-(mean ins out)
+<embed type="text/html" src="./projects/NDVI/NDVI_In_Out_Fire.html" width="600" height="500">
 This plot shows annual mean NDVI inside (red) and outside (blue) the fire boundary. NDVI inside the boundary is higher than outside for the first five years (2006-2010) in the dataset, but quickly plunges below NDVI outside the fire boundary in 2011. This shows the immediate impact of the Las Conchas fire. In subsequent years after the fire, NDVI inside the fire boundary recovers to levels near NDVI outside the boundary. By 2018, the two regions are nearly identical. However, NDVI inside the boundary never returns to pre-fire levels.
 
-(mean diff)
+
+<embed type="text/html" src="./projects/NDVI/NDVI_Mean_Diff_line.html" width="600" height="500">
 This plot shows the difference between NDVI inside and outside the fire boundary. The patterns are largely identical to the previous plot, but attention to the scale reveals how closely the two match; the difference in NDVI approaches 0 by 2018. 2012 shows the largest difference, as this is the year immediately after the fire.
 
-(recovery int)
+
+<embed type="text/html" src="./projects/NDVI/NDVI_Recovery.html" width="875" height="750">
+If you have trouble viewing the plot due to screen size, feel free to 
+[check it out on a separate page here](projects/NDVI/NDVI_Recovery_big_frame.html)
+
+
 This plot (or series of plots) reveals clear spatial changes in NDVI within the fire boundary. In the 2006-2010 baseline period, nearly all of the area inside the fire boundary has high NDVI, demonstrated by the dark green coloring of the plot. In 2011, most of the area inside the boundary has low NDVI, as the fire burned. In following years, NDVI in parts of the burned area climbs within 3-4 years. There is a distinct swath from the southwest corner of the burned area through the center of the area that clearly recovers quickly. However, there are also notable areas that do not see major increases in NDVI, such as the north-central and southeast sections of the burned area. Even by 2021, these areas do not seem to recover much. 
 
 # Implications of plots
 
-(burn boundary no alpha)
+<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound_no_alpha.html" width="500" height="750">
 This map shows the boundary of the Las Conchas fire again. Feel free to zoom or pan in and out as you compare this map to the spatial map of NDVI recovery. Do you notice any characteristics of areas that didn't see much recovery in NDVI?
 
 My results indicate that while vegetation in some parts of the area burned by the Las Conchas fire did recover to some extent, vegetation across the area did not recover to previous levels. This indicates that either the areas burned are experiencing some kind of ecosystem shift, perhaps from common paradigms such as Douglas Fir-Aspen to Ponderosa Pine-Gamble Oak forests, or even Piñon-Juniper forests, or that recovery from fires akin to the Las Conchas fire may take longer than the dataset I used can show. (source here)?
@@ -50,11 +56,11 @@ Further, vegetation in some areas did not seem to recover much at all, which is 
 # Sources
 
 To see the Jupyter notebooks I used to perform this analysis, please check out the following links:
-download
-plot
-visualize
+[notebook to download data](projects/NDVI/las-conchas-download.html)
+[notebook to wrangle rasters](projects/NDVI/las-conchas-plot.html)
+[notebook to visualize NDVI data](projects/NDVI/las-conchas-visualize.html)
 
 
-I downloaded the fire boundary data from MTBS using (this portal.)[]
+I downloaded the fire boundary data from MTBS using [this portal.]()
 
-The NASA EarthDATA Appeears repository can be found at (this link.)[]
+The NASA EarthDATA Appeears repository can be found at [this link.]()
