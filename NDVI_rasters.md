@@ -50,8 +50,8 @@ This plot (or series of plots) reveals clear spatial changes in NDVI within the 
 
 # Implications of plots
 
-<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound_no_alpha.html" width="800" height="900">
 This map shows the boundary of the Las Conchas fire again. Feel free to zoom or pan in and out as you compare this map to the spatial map of NDVI recovery. Do you notice any characteristics of areas that didn't see much recovery in NDVI?
+<embed type="text/html" src="./projects/NDVI/Las_Conchas_fire_bound_no_alpha.html" width="800" height="900">
 
 My results indicate that while vegetation in some parts of the area burned by the Las Conchas fire did recover to some extent, vegetation across the area did not recover to previous levels. This indicates that either the areas burned are experiencing some kind of ecosystem shift, perhaps from common paradigms such as Douglas Fir-Aspen to Ponderosa Pine-Gamble Oak forests, or even Piñon-Juniper forests, or that recovery from fires akin to the Las Conchas fire may take longer than the dataset I used can show. 
 
