@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-# A Deeper Investigation into Climate Change in Bozeman
+# A Deeper Investigation into Climate Change in Bozeman, Montana
 
 <a title="Tim Evanson, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Looking_NE_at_Bridger_Mountains_-_Montana_-_2013-07-07.jpg"><img width="512" alt="Looking NE at Bridger Mountains - Montana - 2013-07-07" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Looking_NE_at_Bridger_Mountains_-_Montana_-_2013-07-07.jpg/512px-Looking_NE_at_Bridger_Mountains_-_Montana_-_2013-07-07.jpg?20130805232405"></a>
+
+The western side of the Bridger Range, north of Bozeman, MT.
 
 ## Background
 Climate change is affecting temperature and precipitation trends across the country. However, studies have shown that these changes are not uniform across seasons, and some seasons are changing at different rates. Winter and summer are warming at different rates ([Asif et al. 2023](https://doi.org/10.1007/s11269-023-03474-4); [ClimateCentral.org](https://www.climatecentral.org/climate-matters/fastest-warming-seasons-2025); [EPA.gov](https://www.epa.gov/climate-indicators/seasonality-and-climate-change)). In a previous project for this class, I investigated how annual mean temperature has changed in my home in Bozeman, MT over the past 91 years. I found that annual mean temperature in Bozeman has risen at a rate of 0.05&deg;F per year in that span, which equates to over 5&deg;F in 91 years. I was interested in exploring this finding further; in particular, I was curious if temperatures and precipitation in Bozeman are changing consistently across the year, or if there are different rates of change at sub-annual levels.
