@@ -11,22 +11,22 @@ To answer my questions, I downloaded temperature and preciptation records from t
 For this analysis, I looked at the difference in rates of change between summer and winter seasons. Summer is defined as the months of June, July, and August (JJA), and winter is defined as December, January, and February (DJF). Once I had cleaned the datasets of years with missing values, I separated each record into the summer and winter timeseries. Because temperature is continuous across time, I averaged the seasons to an annual scale. However, because precipitation is not continuous and many days have no precipitation, I totalled each season's precipitation on an annual basis. I then plotted the series, and performed the same Ordinary Least Squares (OLS) Linear Regression to determine how much summer and winter temperature and precipitation are changing. 
 
 ## Results
-Seasonal Mean Temperature Plot
+<embed type="text/html" src="./projects/final_project/seas_means.html" width="500" height="500">
 This plot shows annual mean temperature for summer and winter seasons. In the plot, we can see that there's potentially a warming trend across the record, but there's nothing definitive.
 
-Summer Temp OLS Plot
+<img src="./projects/final_project/jja_temp_linreg.png" alt="Linear Regression of Annual Mean Summer Temperature (&deg;F) in Bozeman, MT">
 Linear regression analysis of summer temperature shows a clear warming trend. The slope of the regression line is 0.048&deg;F per year.
 
-Winter Temp OLS Plot
+<img src="./projects/final_project/djf_temp_linreg.png" alt="Linear Regression of Annual Mean Winter Temperature (&deg;F) in Bozeman, MT">
 Linear regression analysis of winter temperature shows a clear warming trend as well. The slope of the regression line is 0.065&deg;F per year.
 
-Seasonal Total Precipitation Plot
+<embed type="text/html" src="./projects/final_project/seas_precip_means.html" width="500" height="500">
 This plot shows annual total precipitation from summer and winter seasons. It's not clear that there is an increasing or decreasing trend in the record.
 
-Summer Precip OLS Plot
+<img src="./projects/final_project/jja_precip_linreg.png" alt="Linear Regression of Annual Total Summer Precipitation (inches) in Bozeman, MT">
 Linear regression analysis of summer precipitation shows a increasing trend. The slope of the regression line is 0.009 inches per year.
 
-Winter Precip OLS Plot
+<img src="./projects/final_project/djf_precip_linreg.png" alt="Linear Regression of Annual Total Winter Precipitation (inches) in Bozeman, MT">
 Linear regression analysis of summer temperature shows a increasing trend. The slope of the regression line is 0.005 inches per year.
 
 ## Discussion
