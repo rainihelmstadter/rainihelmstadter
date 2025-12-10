@@ -20,6 +20,8 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 
 [NDVI Recovery after the Las Conchas Fire in New Mexico](./NDVI_rasters.md)
 
+[Exploration of Seasonal Temperature and Precipitation Changes in Bozeman, Montana](./final_project_bozeman_climate.md)
+
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
