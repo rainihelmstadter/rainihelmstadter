@@ -41,7 +41,12 @@ In general, my findings agree with the projections suggested by the literature. 
 It is obvious that further work is required to quanitfy how the seasons in Bozeman are changing as the world warms, exactly. However, my temperature findings indicate potentially significant changes to the ecosystems surrounding Bozeman, with major implications for our tourism and agricultural industries.
 
 ## Sources
-Check out the notebooks I used to perform this analysis here:
-- 
--
--
+
+To see the Jupyter notebooks I used to perform this analysis, please check out the following links:
+
+-[Temperature Notebook](./projects/final_project/05-bozeman-final-temperature.html)
+
+-[Precipitation Notebook](./projects/final_project/05-bozeman-final-precipitation.html)
+
+
+ 
