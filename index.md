@@ -22,6 +22,8 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 
 [Exploration of Seasonal Temperature and Precipitation Changes in Bozeman, Montana](./final_project_bozeman_climate.md)
 
+[Urban Greenspace and Depression Prevalence in Chicago, IL](./urban_greenspace.md)
+
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
