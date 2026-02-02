@@ -17,6 +17,7 @@ First, I downloaded census tracts from the CDC, and then utilized the Socrata AP
 
 The chloropleth plot of depression rates per census tract across Chicago shows the greatest concentration (shown in the darker blue) in the northeast section of the city. There are other notable concentrations of high rates, generally in the southwest corner, though also in the central section. Rates are generally low in the central and southern sections of the city.
 
+
 <embed type="text/html" src="./projects/urban_greenspace/depression_edge_chloropleth.html" width="600" height="600">
 <embed type="text/html" src="./projects/urban_greenspace/depression_frec-veg_chloropleth.html" width="600" height="600">
 <embed type="text/html" src="./projects/urban_greenspace/depression_mean-patch_chloropleth.html" width="600" height="600">
@@ -26,21 +27,26 @@ Visual comparisions of the depression rate per census tract and the vegetation s
 <embed type="text/html" src="./projects/urban_greenspace/depression_greenspace_scatterplot.html" width="600" height="600">
 Scatterplots show varying colinearity among the variables. Fraction vegetated and edge density are most colinear, so we may want to leave one of those variables out. Mean patch size and fraction vegetated are also somewhat organized, but not to the degree of the previous set, so it should not pose an issue.
 
+
 <embed type="png" src="./projects/urban_greenspace/greenspace_histogram.png" width="600" height="600">
 The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. This means that we should probably log transform the depression and patch size variables.
 
+
 <embed type="png" src="./projects/urban_greenspace/qq_plot.png" width="600" height="600">
 However, the q-q plots indicate that the depression might be normally distributed, and that mean patch size and fraction vegetated are not normally distibuted. To account for this issue, I performed a log transform on all of the variables and compared to decide which version to include in the analysis.
+
 
 <embed type="png" src="./projects/urban_greenspace/greenspace_log_histogram.png" width="600" height="600">
 <embed type="png" src="./projects/urban_greenspace/log_qq_plot.png" width="600" height="600">
 The histograms and q-q plots show that the log transform improved most variables. All except edge density are now more normally distributed. Based on this, I will use the untransformed edge density variable and log of mean patch size, fraction vegetated, and depression variables for the regression modeling.
 
+
 <embed type="text/html" src="./projects/urban_greenspace/measured_vs_predicted.html" width="600" height="600">
 The plot above shows that the greenspace statistics don't have a strong relationship to the prevalance of depression across the city. If the relationship were strong, the blue points would be plotted much closer to the line.
 
+
 <embed type="text/html" src="./projects/urban_greenspace/error_chloropleth.html" width="600" height="600">
-The cloropleth plot of error across Chicago reveals a distinct pattern. In general, the model underestimates the depression rate across the northern half, while generally overestimating the southern half, though there are clear pockets of underestimation in the southern portion of the city as well. The model error ranges by at least 10%, with greater magnitude in overestimation.
+The chloropleth plot of error across Chicago reveals a distinct pattern. In general, the model underestimates the depression rate across the northern half, while generally overestimating the southern half, though there are clear pockets of underestimation in the southern portion of the city as well. The model error ranges by at least 10%, with greater magnitude in overestimation.
 
 ## Discussion
 
