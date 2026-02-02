@@ -18,9 +18,9 @@ First, I downloaded census tracts from the CDC, and then utilized the Socrata AP
 The chloropleth plot of depression rates per census tract across Chicago shows the greatest concentration (shown in the darker blue) in the northeast section of the city. There are other notable concentrations of high rates, generally in the southwest corner, though also in the central section. Rates are generally low in the central and southern sections of the city.
 
 
-<embed type="text/html" src="./projects/urban_greenspace/depression_edge_chloropleth.html" width="600" height="600">
-<embed type="text/html" src="./projects/urban_greenspace/depression_frec-veg_chloropleth.html" width="600" height="600">
-<embed type="text/html" src="./projects/urban_greenspace/depression_mean-patch_chloropleth.html" width="600" height="600">
+<embed type="text/html" src="./projects/urban_greenspace/depression_edge_chloropleth.html" width="600" height="400">
+<embed type="text/html" src="./projects/urban_greenspace/depression_frac-veg_chloropleth.html" width="600" height="400">
+<embed type="text/html" src="./projects/urban_greenspace/depression_mean-patch_chloropleth.html" width="600" height="400">
 Visual comparisions of the depression rate per census tract and the vegetation statistics seem to show a positive relationship between greenspace and depression. Across all three variables, depression rates generally seem to be higher in places with higher greenspace values. However, this relationship does not hold throughout the city, as some tracts in the northwest and southwest corners have high greenspace values but do not have corresponding depression rates.
 
 ## Linear Regression
