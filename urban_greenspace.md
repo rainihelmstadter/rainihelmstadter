@@ -28,16 +28,16 @@ Visual comparisions of the depression rate per census tract and the vegetation s
 Scatterplots show varying colinearity among the variables. Fraction vegetated and edge density are most colinear, so we may want to leave one of those variables out. Mean patch size and fraction vegetated are also somewhat organized, but not to the degree of the previous set, so it should not pose an issue.
 
 
-<embed type="png" src="./projects/urban_greenspace/greenspace_histogram.png" width="600" height="600">
+<img src="./projects/urban_greenspace/greenspace_histogram.png" width="600" height="600">
 The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. This means that we should probably log transform the depression and patch size variables.
 
 
-<embed type="png" src="./projects/urban_greenspace/qq_plot.png" width="600" height="600">
+<img src="./projects/urban_greenspace/qq_plot.png" width="600" height="600">
 However, the q-q plots indicate that the depression might be normally distributed, and that mean patch size and fraction vegetated are not normally distibuted. To account for this issue, I performed a log transform on all of the variables and compared to decide which version to include in the analysis.
 
 
-<embed type="png" src="./projects/urban_greenspace/greenspace_log_histogram.png" width="600" height="600">
-<embed type="png" src="./projects/urban_greenspace/log_qq_plot.png" width="600" height="600">
+<img src="./projects/urban_greenspace/greenspace_log_histogram.png" width="600" height="600">
+<img src="./projects/urban_greenspace/log_qq_plot.png" width="600" height="600">
 The histograms and q-q plots show that the log transform improved most variables. All except edge density are now more normally distributed. Based on this, I will use the untransformed edge density variable and log of mean patch size, fraction vegetated, and depression variables for the regression modeling.
 
 
