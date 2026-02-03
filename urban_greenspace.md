@@ -1,4 +1,7 @@
-# Urban Greenspace and Depression Prevalence in Chicago, IL
+---
+layout: default
+title: Urban Greenspace and Depression Prevalence in Chicago, IL
+---
 
 ## Introduction
 For this project, I investigated the relationship between urban greenspace and depression prevalence in Chicago, IL. Urban greenspaces are widely known to have a variety of impacts on public health outcomes, from mortality to heart rate and mood (Kondo et al. 2018). In a previous project, I have investigated how greenspace influenced asthma rates in Chicago. For this project, I was interested in investigating how greenspaces influence mental health outcomes, rather than physical health outcomes. Specifically, I investigated depression rates. Common treatment recommendations for depression can include regular exercise and interaction with nature; access to greenspace could obviously impact these treatments. In addition, greenspaces are often unfairly distributed across cities due to histories of redlining and inadequate funding. Typically, neighborhoods with less greenspace are home to marginalized, lower-income communities. According to the CDC, depression rates [are much higher](https://www.cdc.gov/nchs/products/databriefs/db527.htm) in lower-income communities. The relationship between greenspace and depression might be a fruitful place to investigate.
