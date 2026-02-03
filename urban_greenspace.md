@@ -73,13 +73,13 @@ Research on urban greenspace and public health is essential in understanding and
 
 
 ## Sources
-Brody DJ, Hughes JP. Depression prevalence in adolescents and adults: United States, August 2021–August 2023. 2025 Apr; (527)1–11. DOI: https://dx.doi.org/10.15620/cdc/174579.
+Brody DJ, Hughes JP. Depression prevalence in adolescents and adults: United States, August 2021–August 2023. 2025 Apr; (527)1–11. DOI: [https://dx.doi.org/10.15620/cdc/174579.](https://dx.doi.org/10.15620/cdc/174579.)
 
 
-Kondo, Michelle C., Jaime M. Fluehr, Thomas McKeon, and Charles C. Branas. 2018. "Urban Green Space and Its Impact on Human Health" International Journal of Environmental Research and Public Health 15, no. 3: 445. [https://doi.org/10.3390/ijerph15030445]
+Kondo, Michelle C., Jaime M. Fluehr, Thomas McKeon, and Charles C. Branas. 2018. "Urban Green Space and Its Impact on Human Health" International Journal of Environmental Research and Public Health 15, no. 3: 445. [https://doi.org/10.3390/ijerph15030445](https://doi.org/10.3390/ijerph15030445)
 
 
-Yi, Li, Jaime E. Hart, Charlotte Roscoe, et al. 2025. “Greenspace and Depression Incidence in the US-Based Nationwide Nurses’ Health Study II: A Deep Learning Analysis of Street-View Imagery.” Environment International 198 (April): 109429. https://doi.org/10.1016/j.envint.2025.109429.
+Yi, Li, Jaime E. Hart, Charlotte Roscoe, et al. 2025. “Greenspace and Depression Incidence in the US-Based Nationwide Nurses’ Health Study II: A Deep Learning Analysis of Street-View Imagery.” Environment International 198 (April): 109429. [https://doi.org/10.1016/j.envint.2025.109429.](https://doi.org/10.1016/j.envint.2025.109429.)
 
 ## Notebook
 
