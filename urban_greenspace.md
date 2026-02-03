@@ -79,3 +79,5 @@ Kondo, Michelle C., Jaime M. Fluehr, Thomas McKeon, and Charles C. Branas. 2018.
 Yi, Li, Jaime E. Hart, Charlotte Roscoe, et al. 2025. “Greenspace and Depression Incidence in the US-Based Nationwide Nurses’ Health Study II: A Deep Learning Analysis of Street-View Imagery.” Environment International 198 (April): 109429. https://doi.org/10.1016/j.envint.2025.109429.
 
 ## Notebook
+
+To see the code I used to complete this analysis, please check out [this Jupyter notebook]projects/urban_greenspace/urban-greenspace-notebook.html).
