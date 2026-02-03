@@ -1,9 +1,11 @@
 # Urban Greenspace and Depression Prevalence in Chicago, IL
 
 ## Introduction
-For this project, I investigated the relationship between urban greenspace and depression prevalence in Chicago, IL. Urban greenspaces are widely known to have a variety of impacts on public health outcomes, from _____ to _______ to ________ (add sources here). In a previous project, I have investigated how greenspace influenced asthma rates in Chicago. For this project, I was interested in investigating how greenspaces influence mental health outcomes, rather than physical health outcomes. Specifically, I investigated depression rates. Common treatment recommendations for depression can include regular exercise and interaction with nature; access to greenspace could obviously impact these treatments. Previous studies have investigated this topic. ____ found ______; ______ found _______.
+For this project, I investigated the relationship between urban greenspace and depression prevalence in Chicago, IL. Urban greenspaces are widely known to have a variety of impacts on public health outcomes, from mortality to heart rate and mood (Kondo et al. 2018). In a previous project, I have investigated how greenspace influenced asthma rates in Chicago. For this project, I was interested in investigating how greenspaces influence mental health outcomes, rather than physical health outcomes. Specifically, I investigated depression rates. Common treatment recommendations for depression can include regular exercise and interaction with nature; access to greenspace could obviously impact these treatments. In addition, greenspaces are often unfairly distributed across cities due to histories of redlining and inadequate funding. Typically, neighborhoods with less greenspace are home to marginalized, lower-income communities. According to the CDC, depression rates [are much higher](https://www.cdc.gov/nchs/products/databriefs/db527.htm) in lower-income communities. The relationship between greenspace and depression might be a fruitful place to investigate.
 
-Greenspaces are often unfairly distributed across cities due to histories of redlining and inadequate funding. Typically, neighborhoods with less greenspace are home to marginalized communities.
+
+Previous studies have investigated this topic. [Yi et al. 2025](https://doi.org/10.1016/j.envint.2025.109429) found that areas with trees and grass were associated with lower rates of depression; however, [Kondo et al. 2018](https://doi.org/10.3390/ijerph15030445) did not find a clear link between urban greenspace and depression rates. 
+
 
 <embed type="text/html" src="./projects/urban_greenspace/chicago_depression_chloropleth.html" width="600" height="600">
 This chloropleth plot shows depression rates per census tract in Chicago. 
@@ -54,10 +56,13 @@ Based on the results, depression rates in Chicago are not strongly linked to urb
 
 First, it's not clear that there is a mechanistic connection between greenspace and depression. As suggested by Yi et al. 2025, greenspace may help attenuate the symptoms of depression or other mental health disorders, but it isn't clearly able to solve depression. Thus, while greenspace may be helping residents manage, those diagnoses could still be in the CDC dataset. This differs from health counditions like asthma and heart disease, which may be directly impacted or alleviated by access to greenspace.
 
-Second, 
+Second, the  link between depression and greenspace is not well-defined in the literature. While Yi et al. 2025 found a negative relationship between greenspace and depression rates, Kondo et al. 2018 found no significant link between greenspace and depression. BMy findings are more in line with Kondo et al. 2018, as there was not a clear link between the two. Further research is necessary to better understand this relationship; it's possible that Chicago is a bad example, and perhaps another city would provide different results.
 
 ## Conclusion
 
 ## Sources
+Kondo, Michelle C., Jaime M. Fluehr, Thomas McKeon, and Charles C. Branas. 2018. "Urban Green Space and Its Impact on Human Health" International Journal of Environmental Research and Public Health 15, no. 3: 445. [https://doi.org/10.3390/ijerph15030445]
+
+Brody DJ, Hughes JP. Depression prevalence in adolescents and adults: United States, August 2021–August 2023. 2025 Apr; (527)1–11. DOI: https://dx.doi.org/10.15620/cdc/174579.
 
 ## Notebook
