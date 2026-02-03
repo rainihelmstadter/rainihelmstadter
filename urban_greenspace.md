@@ -17,7 +17,7 @@ This chloropleth plot shows depression rates per census tract in Chicago.
 
 To investigate this question, I utilized data from the [CDC Places](https://www.cdc.gov/places/tools/data-portal.html) dataset and [NAIP imagery](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-aerial-photography-national-agriculture-imagery-program-naip) accessed through the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) (MPC). The CDC Places dataset provides public health data at a variety of scales, including census tracts. NAIP (National Agriculture Imagery Program) imagery is a collection of high-resolution aerial photography taken during the growing period and maintained by the USDA. I accessed the MPC using the STAC API. I used the NAIP imagery to calculate NDVI statistics on greenspace for each census tract. 
 
-First, I downloaded census tracts from the CDC, and then utilized the Socrata API to download data on depression rates for each census tract in 2023. Next, I gathered the MPC URL(s) for the NAIP imagery that corresponds to each census tract. This list of URLs was then be used to compute the NDVI statistics on the MPC. The statistics were: fraction vegetated, or fraction of the census tract that has vegetated (green) landcover; edge density, or how divided up or cohesive the greenspace in a tract is; and mean patch size, which is the average size of a greenspace in the given tract. To identify edges for the edge density, I performed a convolution using a 3x3 kernel. After computing NDVI statistics, I made chloropleth plots to visually compare depression rates and the various greenspace statistics. Finally, I used a linear regression model to better understand how strong the relationship between greenspace and depression rates is. I used a train-test-split method to test the data, as well as investigate spatial bias. Before performing the regression, I log transformed some variables to ensure issues of collinearity and normal distribution didn't interfere.
+First, I downloaded census tracts from the CDC, and then utilized the Socrata API to download data on depression rates for each census tract in 2023. Next, I gathered the MPC URL(s) for the NAIP imagery that corresponds to each census tract. This list of URLs was then used to compute the NDVI statistics on the MPC. The statistics were: fraction vegetated, or fraction of the census tract that has vegetated (green) landcover; edge density, or how divided up or cohesive the greenspace in a tract is; and mean patch size, which is the average size of a greenspace in the given tract. To identify edges for the edge density, I performed a convolution using a 3x3 kernel. After computing NDVI statistics, I made chloropleth plots to visually compare depression rates and the various greenspace statistics. Finally, I used a linear regression model to better understand how strong the relationship between greenspace and depression rates is. I used a train-test-split method to test the data, as well as investigate spatial bias. Before performing the regression, I log transformed some variables to ensure issues of collinearity and normal distribution didn't interfere.
 
 
 ## Results
@@ -37,7 +37,7 @@ Scatterplots show varying colinearity among the variables. Fraction vegetated an
 
 
 <img src="./projects/urban_greenspace/greenspace_histogram.png" width="600" height="600">
-The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. Due to this, a log transform of the the depression and patch size variables will be necessary to ensure the data are relatively normally distributed.
+The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. Due to this, a log transform of the depression and patch size variables will be necessary to ensure the data are relatively normally distributed.
 
 
 <img src="./projects/urban_greenspace/qq_plot.png" width="600" height="600">
@@ -50,7 +50,7 @@ The histograms and q-q plots show that the log transform improved most variables
 
 
 <embed type="text/html" src="./projects/urban_greenspace/measured_vs_predicted.html" width="600" height="600">
-The plot above shows that the greenspace statistics don't have a strong relationship to the prevalance of depression across the city. If the relationship were strong, the blue points would be plotted much closer to the line.
+The plot above shows that the greenspace statistics don't have a strong relationship to the prevalence of depression across the city. If the relationship were strong, the blue points would be plotted much closer to the line.
 
 
 <embed type="text/html" src="./projects/urban_greenspace/error_chloropleth.html" width="600" height="600">
@@ -62,7 +62,7 @@ The chloropleth plot of error across Chicago reveals a distinct pattern. In gene
 Based on the results, depression rates in Chicago are not strongly linked to urban greenspace in Chicago. Visual inpection of the chloropleth plots does not reveal a clear linkage pattern. This is reinforced by the linear regression modeling and error chloropleth plot, both of which do not show a clear, strong relationship between greenspace and depression rates. There may be a few reasons for this.
 
 
-First, it's not clear that there is a mechanistic connection between greenspace and depression. As suggested by Yi et al. 2025, greenspace may help attenuate the symptoms of depression or other mental health disorders, but it isn't clearly able to solve depression. Thus, while greenspace may be helping residents manage, those diagnoses could still be in the CDC dataset. This differs from health counditions like asthma and heart disease, which may be directly impacted or alleviated by access to greenspace.
+First, it's not clear that there is a mechanistic connection between greenspace and depression. As suggested by Yi et al. 2025, greenspace may help attenuate the symptoms of depression or other mental health disorders, but it isn't clearly able to solve depression. Thus, while greenspace may be helping residents manage, those diagnoses could still be in the CDC dataset. This differs from health conditions like asthma and heart disease, which may be directly impacted or alleviated by access to greenspace.
 
 
 Second, the  link between depression and greenspace is not well-defined in the literature. While Yi et al. 2025 found a negative relationship between greenspace and depression rates, Kondo et al. 2018 found no significant link between greenspace and depression. BMy findings are more in line with Kondo et al. 2018, as there was not a clear link between the two. Further research is necessary to better understand this relationship; it's possible that Chicago is a bad example, and perhaps another city would provide different results.
