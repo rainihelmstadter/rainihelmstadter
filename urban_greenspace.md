@@ -49,7 +49,7 @@ However, the q-q plots indicate that the depression might be normally distribute
 The histograms and q-q plots show that the log transform improved most variables. All except edge density are now more normally distributed. Based on this, I will use the untransformed edge density variable and log of mean patch size, fraction vegetated, and depression variables for the regression modeling.
 
 
-<embed type="text/html" src="./projects/urban_greenspace/measured_vs_predicted.html" width="600" height="600">
+<embed type="text/html" src="./projects/urban_greenspace/measured_vs_predicted_plot.html" width="600" height="600">
 The plot above shows that the greenspace statistics don't have a strong relationship to the prevalence of depression across the city. If the relationship were strong, the blue points would be plotted much closer to the line.
 
 
