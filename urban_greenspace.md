@@ -29,7 +29,7 @@ Scatterplots show varying colinearity among the variables. Fraction vegetated an
 
 
 <img src="./projects/urban_greenspace/greenspace_histogram.png" width="600" height="600">
-The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. This means that we should probably log transform the depression and patch size variables.
+The histograms above show that the patch size variable has a long tail to the right and the depression variable is bimodal. The other two variables (fraction vegetated and edge density) appear to be more normally distributed. Due to this, a log transform of the the depression and patch size variables will be necessary to ensure the data are relatively normally distributed.
 
 
 <img src="./projects/urban_greenspace/qq_plot.png" width="600" height="600">
@@ -50,7 +50,12 @@ The chloropleth plot of error across Chicago reveals a distinct pattern. In gene
 
 ## Discussion
 
-The error chloropleth plot reinforces that the greenspace statistics are not strongly related to depression rates in Chicago.
+Based on the results, depression rates in Chicago are not strongly linked to urban greenspace in Chicago. Visual inpection of the chloropleth plots does not reveal a clear linkage pattern. This is reinforced by the linear regression modeling and error chloropleth plot, both of which do not show a clear, strong relationship between greenspace and depression rates. There may be a few reasons for this.
+
+First, it's not clear that there is a mechanistic connection between greenspace and depression. As suggested by Yi et al. 2025, greenspace may help attenuate the symptoms of depression or other mental health disorders, but it isn't clearly able to solve depression. Thus, while greenspace may be helping residents manage, those diagnoses could still be in the CDC dataset. This differs from health counditions like asthma and heart disease, which may be directly impacted or alleviated by access to greenspace.
+
+Second, 
+
 ## Conclusion
 
 ## Sources
