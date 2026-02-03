@@ -10,7 +10,7 @@ For this project, I investigated the relationship between urban greenspace and d
 Previous studies have investigated this topic. [Yi et al. 2025](https://doi.org/10.1016/j.envint.2025.109429) found that areas with trees and grass were associated with lower rates of depression; however, [Kondo et al. 2018](https://doi.org/10.3390/ijerph15030445) did not find a clear link between urban greenspace and depression rates. 
 
 
-<embed type="text/html" src="./projects/urban_greenspace/chicago_depression_chloropleth.html" width="600" height="600">
+<embed type="text/html" src="./projects/urban_greenspace/chicago_depression_chloropleth.html" width="800" height="900">
 This chloropleth plot shows depression rates per census tract in Chicago. 
 
 ## Methods
@@ -25,9 +25,9 @@ First, I downloaded census tracts from the CDC, and then utilized the Socrata AP
 The chloropleth plot of depression rates per census tract across Chicago shows the greatest concentration (shown in the darker blue) in the northeast section of the city. There are other notable concentrations of high rates, generally in the southwest corner, though also in the central section. Rates are generally low in the central and southern sections of the city.
 
 
-<embed type="text/html" src="./projects/urban_greenspace/depression_edge_chloropleth.html" width="600" height="400">
-<embed type="text/html" src="./projects/urban_greenspace/depression_frac-veg_chloropleth.html" width="600" height="400">
-<embed type="text/html" src="./projects/urban_greenspace/depression_mean-patch_chloropleth.html" width="600" height="400">
+<embed type="text/html" src="./projects/urban_greenspace/depression_edge_chloropleth.html" width="700" height="350">
+<embed type="text/html" src="./projects/urban_greenspace/depression_frac-veg_chloropleth.html" width="700" height="350">
+<embed type="text/html" src="./projects/urban_greenspace/depression_mean-patch_chloropleth.html" width="700" height="350">
 Visual comparisions of the depression rate per census tract and the vegetation statistics seem to show a positive relationship between greenspace and depression. Across all three variables, depression rates generally seem to be higher in places with higher greenspace values. However, this relationship does not hold throughout the city, as some tracts in the northwest and southwest corners have high greenspace values but do not have corresponding depression rates.
 
 
@@ -53,7 +53,7 @@ The histograms and q-q plots show that the log transform improved most variables
 The plot above shows that the greenspace statistics don't have a strong relationship to the prevalence of depression across the city. If the relationship were strong, the blue points would be plotted much closer to the line.
 
 
-<embed type="text/html" src="./projects/urban_greenspace/error_chloropleth.html" width="600" height="600">
+<embed type="text/html" src="./projects/urban_greenspace/error_chloropleth.html" width="800" height="900">
 The chloropleth plot of error across Chicago reveals a distinct pattern. In general, the model underestimates the depression rate across the northern half, while generally overestimating the southern half, though there are clear pockets of underestimation in the southern portion of the city as well. The model error ranges by at least 10%, with greater magnitude in overestimation.
 
 
