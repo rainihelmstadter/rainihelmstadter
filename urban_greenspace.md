@@ -83,4 +83,4 @@ Yi, Li, Jaime E. Hart, Charlotte Roscoe, et al. 2025. “Greenspace and Depressi
 
 ## Notebook
 
-To see the code I used to complete this analysis, please check out [this Jupyter notebook]projects/urban_greenspace/urban-greenspace-notebook.html).
+To see the code I used to complete this analysis, please check out [this Jupyter notebook](projects/urban_greenspace/urban-greenspace-notebook.html).
