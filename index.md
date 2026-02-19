@@ -24,6 +24,8 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 
 [Urban Greenspace and Depression Prevalence in Chicago, IL](./urban_greenspace.md)
 
+[KMeans Clustering of Land Cover in Yellowstone National Park](./yellowstone_clustering.md)
+
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
