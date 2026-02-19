@@ -40,8 +40,12 @@ You can view the notebook I used to complete this analysis [here](./projects/KMe
 
 
 Masek, J., Ju, J., Roger, J.-C., Skakun, S., Vermote, E., Claverie, M., Dungan, J., Yin, Z., Freitag, B., &amp; Justice, C. (2021). <i>HLS Operational Land Imager Surface Reflectance and TOA Brightness Daily Global 30m v2.0</i> [Data set]. NASA Land Processes Distributed Active Archive Center. [https://doi.org/10.5067/HLS/HLSL30.002] Date Accessed: 2026-02-18
+
 Kokaly, R. F., Despain, D. G., Clark, R. N., & Livo, K. E. (2003). Mapping vegetation in Yellowstone National Park using spectral feature analysis of AVIRIS data. Remote Sensing of Environment, 84(3), 437–456. [https://doi.org/10.1016/S0034-4257(02)00133-5]
+
 NPS - Land Resources Division. 2026. Administrative Boundaries of National Park System Units - National Geospatial Data Asset (NGDA) NPS National Parks Dataset. NPS - Land Resources Division. United States and Territories
 [https://irma.nps.gov/DataStore/Reference/Profile/2316744]
+
 National Park Service. (2025). Yellowstone resources & issues handbook: 2025. Yellowstone National Park, WY: U.S. Department of the Interior. [https://www.nps.gov/yell/learn/upload/6_RI_2025_Vegetation_web.pdf]
+
 
