@@ -1,6 +1,6 @@
 # KMeans Clustering of Land Cover in Yellowstone National Park
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Midway_Geyser_Basin_(view_from_the_east).jpg#/media/File:Aerial_image_of_the_Midway_Geyser_Basin_(view_from_the_east).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Aerial_image_of_the_Midway_Geyser_Basin_%28view_from_the_east%29.jpg" alt="Aerial image of the Midway Geyser Basin (view from the east).jpg" height="3300" width="5100"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Carsten_Steger" title="User:Carsten Steger">Carsten Steger</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=126001255">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Midway_Geyser_Basin_(view_from_the_east).jpg#/media/File:Aerial_image_of_the_Midway_Geyser_Basin_(view_from_the_east).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Aerial_image_of_the_Midway_Geyser_Basin_%28view_from_the_east%29.jpg" alt="Aerial image of the Midway Geyser Basin (view from the east).jpg" height="330" width="510"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Carsten_Steger" title="User:Carsten Steger">Carsten Steger</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=126001255">Link</a></p>
 
 ## Introduction
 
@@ -44,3 +44,4 @@ Kokaly, R. F., Despain, D. G., Clark, R. N., & Livo, K. E. (2003). Mapping veget
 NPS - Land Resources Division. 2026. Administrative Boundaries of National Park System Units - National Geospatial Data Asset (NGDA) NPS National Parks Dataset. NPS - Land Resources Division. United States and Territories
 [https://irma.nps.gov/DataStore/Reference/Profile/2316744]
 National Park Service. (2025). Yellowstone resources & issues handbook: 2025. Yellowstone National Park, WY: U.S. Department of the Interior. [https://www.nps.gov/yell/learn/upload/6_RI_2025_Vegetation_web.pdf]
+
