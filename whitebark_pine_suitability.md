@@ -113,4 +113,4 @@ Parks, S. A., Hefty, K. L., Rushing, J. F., Goeking, S. A., Tomback, D. F., Hood
 
 # Notebook
 
-To see the code I used to complete this analysis, please check out [this Jupyter notebook](./projects/habitat_suitability/(habitat_suitability-notebook.html).
+To see the code I used to complete this analysis, please check out [this Jupyter notebook](projects/habitat_suitability/(habitat_suitability-notebook.html)
