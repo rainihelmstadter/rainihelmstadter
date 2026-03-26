@@ -33,7 +33,7 @@ Soil pH plots for each site:
 <img src="./projects/habitat_suitability/rainier_pH_plot.png" height="500" width="600">
 
 Plots demonstrating elevation, aspect, and slope for sites:
-<img src="./projects/habitat_suitability/rainier_elevation_plot.png" height="500" width="600">
+<img src="./projects/habitat_suitability/mount_rainier_elevation_plot.png" height="500" width="600">
 <img src="./projects/habitat_suitability/glacier_slope_plot.png" height="500" width="600">
 <img src="./projects/habitat_suitability/yellowstone_aspect_plot.png" height="500" width="600">
 
@@ -113,4 +113,4 @@ Parks, S. A., Hefty, K. L., Rushing, J. F., Goeking, S. A., Tomback, D. F., Hood
 
 # Notebook
 
-To see the code I used to complete this analysis, please check out [this Jupyter notebook](projects/habitat_suitability/(habitat_suitability-notebook.html).
+To see the code I used to complete this analysis, please check out [this Jupyter notebook](./projects/habitat_suitability/(habitat_suitability-notebook.html).
