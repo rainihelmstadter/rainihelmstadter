@@ -1,3 +1,8 @@
+---
+layout: default
+title: Evolving Whitebark Pine Habitat Suitability
+---
+
 # Evolving Whitebark Pine Habitat Suitability
 
 <p><a href="https://commons.wikimedia.org/wiki/File:WhitebarkPine_7467t.jpg#/media/File:WhitebarkPine_7467t.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WhitebarkPine_7467t.jpg" alt="WhitebarkPine 7467t.jpg" height="1390" width="1043"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Wsiegmund" title="User:Wsiegmund">Walter Siegmund</a> <a href="//commons.wikimedia.org/wiki/User_talk:Wsiegmund" title="User talk:Wsiegmund">(talk)</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=340880">Link</a></p>
