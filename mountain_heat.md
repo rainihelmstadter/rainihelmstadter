@@ -3,8 +3,8 @@
 <a href="https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/960px-Barns_grand_tetons.jpg" 
        alt="Moulton Barn in front of the Grand Tetons" 
-       width="960" 
-       height="717" 
+       width="665" 
+       height="500" 
        style="max-width: none !important;">
 </a>
 
