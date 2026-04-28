@@ -28,6 +28,8 @@ Since graduating college, I've been skiing... a lot. I work as a ski instructor 
 
 [Whitebark Pine Habitat Suitability under Climate Change](./whitebark_pine_suitability.md)
 
+[Heat Waves in Mountain Towns](./mountain_heat.md)
+
 ### Things I'm Excited About
 - Learning more widely used programming languages and systematic coding habits
 - Utilizing the growing pool of Earth Science data and techniques with global and regional climate model outputs to improve accuracy in mountainous regions and aid adaptation efforts.
