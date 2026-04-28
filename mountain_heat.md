@@ -1,6 +1,12 @@
 # Heatwaves in Ski Towns
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg#/media/File:Barns_grand_tetons.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Barns_grand_tetons.jpg" alt="Barns grand tetons.jpg" height="1195" width="1600"></a><br>By Jon Sullivan, PD Photo. - <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170210003825/http://pdphoto.org/PictureDetail.php?mat=pdef&amp;pg=8145">PD Photo</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3537847">Link</a></p>
+<a href="https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/960px-Barns_grand_tetons.jpg" 
+       alt="Moulton Barn in front of the Grand Tetons" 
+       width="960" 
+       height="717" 
+       style="max-width: none !important;">
+</a>
 
 ## Introduction
 As a ski instructor, I've just witnessed one of the strangest winters I can remember. We had low snow, dry spells, rain in  the depths of winter, and most concerning, long periods of elevated heat. There were weeks in February and March with days well into the 40&deg;Fs and without an overnight freeze - at 7000ft or higher in Montana. These patterns were unlike any winter I've seen, and the impact were concerning, to say the least. My colleagues and I had clients cancel trips, and many instructors struggled to find enough work. The question everyone was wondering - "Is this an outlier winter, or is this a sign of a new normal?"
