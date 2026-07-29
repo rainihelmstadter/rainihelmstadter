@@ -72,7 +72,7 @@ Second, the model shows an interesting divergence in how SWE accumulates and mel
 
 An annual view of maximum SWE in the entire watershed reveals further findings. First, there is a slight positive trend in accumulation across the entire study period, and a fairly wide range in maximum SWE: 6-9 $km^3$. However, examining the day of year when the maximum SWE in the entire watershed is reached is revelatory. As indicated by the color of each point in the plot above, there is a trend in maximum SWE being reached earlier in the year (0.655 days/year). Put together, these findings suggest that more precipitation is falling in the watershed each winter, but melting is beginning earlier. Further, if we assume that the increased precipitation trend is steady across the whole winter, and maximum SWE is reached earlier, a major threshold is implied: it is likely that more precipitation in early spring is falling as rain rather than snow. This finding is exactly why this study was conducted. The pattern change indicated here will require shifts in management procedures and implies potential issues later in the summer.
 
-## 4:Discussion
+## 4: Discussion
 
 #### 4a: Model Validation
 
