@@ -10,7 +10,7 @@ Hello! I am from Santa Fe, New Mexico. I went to Hampshire College, which is a p
 Since graduating college, I've been skiing... a lot. I work as a ski instructor at Big Sky, MT and Portillo, Chile. I hold Alpine Level III and Children's Specialist II certifications from the Professional Ski Instructors of America. I love skiing at the resort and in the backcountry, and I love getting to talk about it with fellow ski nerds. When not skiing, you'll probably find me mountain biking or trail running.
 
 ## Capstone Project
-[Predicting Snow-Water Equivalent using Machine Learning](blog_final.html)
+[Predicting Snow-Water Equivalent using Machine Learning](./projects/predicting_swe_with_ml/blog_final.html)
 
 ## Class Projects
 
